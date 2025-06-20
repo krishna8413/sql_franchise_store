@@ -19,7 +19,7 @@ This project provides a fully normalized SQL schema designed for managing franch
 <h3>🧱 Schema Design Summary</h3>
 
 <p align="center">
-  <img src="schemaa.png" alt="Franchise Store Schema" width="80%" />
+  <img src="schemaa.jpg" alt="Franchise Store Schema" width="80%" />
 </p>
 
 - **`countries`, `states`, `cities`**  
